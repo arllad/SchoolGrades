@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:OlmoDallara_WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="568" Width="800">
-    <Grid Background="LightCyan" Margin="-2,0,2,0">
+    <Grid Background="PowderBlue" Margin="-2,0,2,0">
         <Label Content="Codice Scuola" Foreground="Blue" FontSize="10" HorizontalAlignment="Left" VerticalAlignment="Top"/>
         <Label Content="Anno Scol." Foreground="Blue" FontSize="10" HorizontalAlignment="Left" Margin="119,0,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" FontSize="10" Margin="0,26,0,0" TextWrapping="Wrap" Text="FOIS01100L" VerticalAlignment="Top" Width="106"/>
