@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlmoDallara_WPF", "OlmoDall
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlmoDallara_wpf_frmRandom", "OlmoDallara_wpf_frmRandom\OlmoDallara_wpf_frmRandom.csproj", "{A98874FE-AA0E-434C-B992-9AF5F874D832}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLogin", "WPFLogin\WPFLogin.csproj", "{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,26 @@ Global
 		{A98874FE-AA0E-434C-B992-9AF5F874D832}.Release|x64.Build.0 = Release|Any CPU
 		{A98874FE-AA0E-434C-B992-9AF5F874D832}.Release|x86.ActiveCfg = Release|Any CPU
 		{A98874FE-AA0E-434C-B992-9AF5F874D832}.Release|x86.Build.0 = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|ARM.Build.0 = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|x64.Build.0 = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Debug|x86.Build.0 = Debug|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|ARM.Build.0 = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|ARM64.Build.0 = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|x64.ActiveCfg = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|x64.Build.0 = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D99890A2-8FBC-4956-BD9E-6ACDEA6A483D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
