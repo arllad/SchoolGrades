@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OlmoDallara_wpf_frmRandom"
         mc:Ignorable="d"
-        Title="MainWindow" Height="175" Width="193" ResizeMode="CanMinimize" Background="PowderBlue">
+        Title="Numero casuale" Height="175" Width="193" ResizeMode="CanMinimize" Background="PowderBlue">
     <Grid>
         <TextBox HorizontalAlignment="Left" FontSize="20" Margin="10,44,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="57" Height="37"/>
         <TextBox HorizontalAlignment="Left" FontSize="20" Margin="115,43,0,79" TextWrapping="Wrap" Width="50" Height="37"/>
