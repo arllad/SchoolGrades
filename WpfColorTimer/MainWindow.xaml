@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfColorTimer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="232" Width="303"
+        Title="Color Timer" Height="232" Width="303"
         Background="LightGray">
     <Grid>
         <CheckBox Content="R.C." HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
