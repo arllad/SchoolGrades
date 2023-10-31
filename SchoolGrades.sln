@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFLogin", "WPFLogin\WPFLog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfColorTimer", "WpfColorTimer\WpfColorTimer.csproj", "{9C6104AB-A084-4B52-9BC9-8536D1994595}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTestGrading", "WpfTestGrading\WpfTestGrading.csproj", "{1647C8F0-A215-496A-B151-97CD5024968B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +141,26 @@ Global
 		{9C6104AB-A084-4B52-9BC9-8536D1994595}.Release|x64.Build.0 = Release|Any CPU
 		{9C6104AB-A084-4B52-9BC9-8536D1994595}.Release|x86.ActiveCfg = Release|Any CPU
 		{9C6104AB-A084-4B52-9BC9-8536D1994595}.Release|x86.Build.0 = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|ARM.Build.0 = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|x64.Build.0 = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Debug|x86.Build.0 = Debug|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|ARM.Build.0 = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|ARM64.Build.0 = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x64.ActiveCfg = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x64.Build.0 = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x86.ActiveCfg = Release|Any CPU
+		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
