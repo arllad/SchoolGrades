@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfColorTimer", "WpfColorTi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTestGrading", "WpfTestGrading\WpfTestGrading.csproj", "{1647C8F0-A215-496A-B151-97CD5024968B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTestAssessing", "WpfTestAssessing\WpfTestAssessing.csproj", "{D4C7A71A-920B-4E7B-AE46-827B43BA4838}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -161,6 +163,26 @@ Global
 		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x64.Build.0 = Release|Any CPU
 		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x86.ActiveCfg = Release|Any CPU
 		{1647C8F0-A215-496A-B151-97CD5024968B}.Release|x86.Build.0 = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|ARM.Build.0 = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|x64.Build.0 = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|ARM.Build.0 = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|ARM64.Build.0 = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|x64.ActiveCfg = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|x64.Build.0 = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4C7A71A-920B-4E7B-AE46-827B43BA4838}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
